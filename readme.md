@@ -1,1 +1,2 @@
-es mi segundo primerorepositorio en github
+Es un repositorio para pagina web
+
