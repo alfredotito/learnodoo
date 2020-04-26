@@ -1,2 +1,2 @@
-Es un repositorio para pagina web
+Es un repositorio para addons qweb odoo 
 
